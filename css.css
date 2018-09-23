@@ -1,0 +1,29 @@
+/*个人信息栏内的图标及文字样式*/
+#info-text{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    line-height: 1.5;
+}
+.glyphicon{
+    margin-right: 10px;
+}
+/*巨幕字体*/
+.text-danger{
+    padding:5px;
+    background-color: rgb(248, 247, 247);
+}
+/*教育背景栏*/
+.thumbnail{
+    width: 400px;
+    margin:5px 10px;
+}
+.thumbnail p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.education{
+    width: 847.5px;
+    margin-left: 16px;
+}
+/**/
